@@ -1,0 +1,145 @@
+body{
+    background-color:black;
+    color:#5a5a5a;
+}
+.navbar-wrapper{
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+}
+
+
+
+
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+}
+
+
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+    
+    
+}
+
+
+.navbar-wrapper .navbar{
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+
+.team h2{
+    color: rgba(50,50,50,0.8);
+    text-align: center;
+}
+
+  
+.div{
+ margin-top: 0;
+    width: 50%;
+    height: 50%;
+   
+   
+}
+
+
+.btn-primary{
+    margin-left: 60px
+}
+
+.d{
+display: inline-block;
+ height: 660px;
+}
+
+.dv{
+    margin-top: 0;
+    width: 50%;
+    position: absolute;
+    right: 0;
+ 
+    }
+
+.divider{
+    margin: 120px 0 ;
+}
+
+.container{
+    margin-top:50px
+}
+
+
+.ronaldo{
+    padding-left: 15px;
+    
+}
+.content{
+    
+}
+footer{
+    margin:0 110px;
+    text-decoration-color: white;
+    
+}
+.hi{
+    margin-top: 500px;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin:0;
+   
+    padding:0;
+    background-color: black;
+}
+li{
+    float:left;
+}
+li a {
+    text-align: center;
+text-decoration: none;
+    display: inline-block;
+    
+    
+    padding: 15px 25px;
+    color:orange;
+ 
+}
+li a:hover{
+    background-color: antiquewhite; 
+    text-decoration-line: none;
+}
+.righty{
+    float:right;
+}
+.active{
+    background-color: antiquewhite;
+    text-decoration: none;
+    
+}
+.a{
+    border-radius: 20px;
+}
+.b{
+   border-radius: 20px; 
+}
+.c{
+    border-radius: 20px;
+}
+
+.g{
+    text-decoration: none;
+}

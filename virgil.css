@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    color: antiquewhite;
+    
+}
+
+.f{
+    width: 100%;
+    margin: 0;
+}
+.h{
+    width: 600px;
+    padding-right: 20px
+    
+}
+.gj{
+    display: inline-block;
+    margin-top: 10px;
+}
+.x{
+  margin:0 ;
+
+    padding-bottom: 15px;
+}
